@@ -1,0 +1,8 @@
+main.c:27:6:LightSensor_Init	120	static
+main.c:87:6:LedControl_TimerOCInit	48	static
+main.c:126:10:LightSensor_AdcDMARead	4	static
+main.c:129:10:Kalman_Filter	16	static
+main.c:133:6:LedControl_TimerOCSetPwm	16	static
+main.c:138:6:ABL_StepBrightness	16	static
+main.c:151:6:ABL_Process	16	static
+main.c:165:5:main	8	static

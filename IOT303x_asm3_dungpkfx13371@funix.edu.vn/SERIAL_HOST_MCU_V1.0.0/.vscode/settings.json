@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "melody.h": "c",
+        "serial.h": "c"
+    }
+}

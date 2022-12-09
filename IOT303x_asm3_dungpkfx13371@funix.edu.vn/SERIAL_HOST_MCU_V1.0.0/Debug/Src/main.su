@@ -1,0 +1,7 @@
+main.c:142:6:USART2_Init	40	static
+main.c:189:6:SerialReceive_Init	8	static
+main.c:197:9:serialPoll	16	static
+main.c:251:6:UartCommandProcess	40	static
+main.c:302:6:ProcessSerialReceive	16	static
+main.c:328:5:main	16	static
+main.c:351:6:USART2_IRQHandler	16	static,ignoring_inline_asm

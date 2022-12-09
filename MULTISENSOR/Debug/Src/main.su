@@ -1,0 +1,16 @@
+main.c:52:6:SPI1_Init	40	static
+main.c:112:6:I2C1_Init	32	static
+main.c:151:6:I2C_Start	8	static
+main.c:172:6:I2C_SendAddress	16	static
+main.c:190:6:I2C_Transmit	16	static
+main.c:205:6:I2C_Stop	8	static
+main.c:216:9:I2C_Receive_ACK	8	static
+main.c:228:9:I2C_Receive_NACK	8	static
+main.c:234:6:Delay_ms	24	static
+main.c:248:10:TemHumSensor_readRegister	32	static
+main.c:262:7:TemHumSensor_GetTempValue	16	static
+main.c:267:7:TemHumSensor_GetHumiValue	16	static
+main.c:272:6:Display_TemHum	32	static
+main.c:296:6:Kalman_filter	16	static
+main.c:302:6:processGetValueSensor	8	static
+main.c:314:5:main	16	static

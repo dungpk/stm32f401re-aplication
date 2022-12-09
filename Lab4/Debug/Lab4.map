@@ -1,0 +1,1079 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+                              Src/main.o (SystemCoreClock)
+D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+                              Src/main.o (NVIC_Init)
+D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+                              Src/main.o (GPIO_Init)
+D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+                              Src/main.o (RCC_AHB1PeriphClockCmd)
+D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+                              Src/main.o (SPI_Init)
+c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-errno.o)
+                              Src/syscalls.o (__errno)
+c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+                              c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+                              c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+                              c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+                              c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x4 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000000000000       0x7c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .text          0x0000000000000000        0x0 Src/main.o
+ .data          0x0000000000000000        0x0 Src/main.o
+ .bss           0x0000000000000000        0x0 Src/main.o
+ .bss.Receive_Data_Slave
+                0x0000000000000000        0x2 Src/main.o
+ .bss.Receive_Data_Master
+                0x0000000000000000        0x2 Src/main.o
+ .text.Receiver_Data_Master
+                0x0000000000000000       0x4c Src/main.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .text          0x0000000000000000        0x0 Src/syscalls.o
+ .data          0x0000000000000000        0x0 Src/syscalls.o
+ .bss           0x0000000000000000        0x0 Src/syscalls.o
+ .bss.__env     0x0000000000000000        0x4 Src/syscalls.o
+ .data.environ  0x0000000000000000        0x4 Src/syscalls.o
+ .text.initialise_monitor_handles
+                0x0000000000000000        0xe Src/syscalls.o
+ .text._getpid  0x0000000000000000       0x10 Src/syscalls.o
+ .text._kill    0x0000000000000000       0x20 Src/syscalls.o
+ .text._exit    0x0000000000000000       0x14 Src/syscalls.o
+ .text._read    0x0000000000000000       0x3a Src/syscalls.o
+ .text._write   0x0000000000000000       0x38 Src/syscalls.o
+ .text._close   0x0000000000000000       0x18 Src/syscalls.o
+ .text._fstat   0x0000000000000000       0x20 Src/syscalls.o
+ .text._isatty  0x0000000000000000       0x16 Src/syscalls.o
+ .text._lseek   0x0000000000000000       0x1a Src/syscalls.o
+ .text._open    0x0000000000000000       0x1c Src/syscalls.o
+ .text._wait    0x0000000000000000       0x1e Src/syscalls.o
+ .text._unlink  0x0000000000000000       0x1e Src/syscalls.o
+ .text._times   0x0000000000000000       0x18 Src/syscalls.o
+ .text._stat    0x0000000000000000       0x20 Src/syscalls.o
+ .text._link    0x0000000000000000       0x20 Src/syscalls.o
+ .text._fork    0x0000000000000000       0x16 Src/syscalls.o
+ .text._execve  0x0000000000000000       0x22 Src/syscalls.o
+ .debug_info    0x0000000000000000      0xfa8 Src/syscalls.o
+ .debug_abbrev  0x0000000000000000      0x286 Src/syscalls.o
+ .debug_aranges
+                0x0000000000000000       0xa8 Src/syscalls.o
+ .debug_ranges  0x0000000000000000       0x98 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x24c Src/syscalls.o
+ .debug_macro   0x0000000000000000      0xaae Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x22 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x4c Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x18 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x94 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x3c Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x34 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x57 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x174 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x339 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x16 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x43 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x34 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x58 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x71 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x1c Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x12a Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x35 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x6a Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x1c Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x52 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x22 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x40 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0xd5 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x1c Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x3d Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x35 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x12c Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x16 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x16 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x29 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x241 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x1c Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x16 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x145 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x189 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x16 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0xce Src/syscalls.o
+ .debug_line    0x0000000000000000      0x7fd Src/syscalls.o
+ .debug_str     0x0000000000000000     0x8ea9 Src/syscalls.o
+ .comment       0x0000000000000000       0x54 Src/syscalls.o
+ .debug_frame   0x0000000000000000      0x2ac Src/syscalls.o
+ .ARM.attributes
+                0x0000000000000000       0x34 Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .text          0x0000000000000000        0x0 Src/sysmem.o
+ .data          0x0000000000000000        0x0 Src/sysmem.o
+ .bss           0x0000000000000000        0x0 Src/sysmem.o
+ .bss.__sbrk_heap_end
+                0x0000000000000000        0x4 Src/sysmem.o
+ .text._sbrk    0x0000000000000000       0x6c Src/sysmem.o
+ .debug_info    0x0000000000000000      0xa25 Src/sysmem.o
+ .debug_abbrev  0x0000000000000000      0x1bf Src/sysmem.o
+ .debug_aranges
+                0x0000000000000000       0x20 Src/sysmem.o
+ .debug_ranges  0x0000000000000000       0x10 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0xff Src/sysmem.o
+ .debug_macro   0x0000000000000000      0xaae Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x10 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x22 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x4c Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x18 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x94 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x3c Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x34 Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x174 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x16 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x43 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x57 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x34 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x10 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x58 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x71 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x1c Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x12a Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x23b Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x103 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x6a Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x1df Src/sysmem.o
+ .debug_line    0x0000000000000000      0x4f3 Src/sysmem.o
+ .debug_str     0x0000000000000000     0x627c Src/sysmem.o
+ .comment       0x0000000000000000       0x54 Src/sysmem.o
+ .debug_frame   0x0000000000000000       0x34 Src/sysmem.o
+ .ARM.attributes
+                0x0000000000000000       0x34 Src/sysmem.o
+ .text          0x0000000000000000       0x14 Startup/startup_stm32f401retx.o
+ .data          0x0000000000000000        0x0 Startup/startup_stm32f401retx.o
+ .bss           0x0000000000000000        0x0 Startup/startup_stm32f401retx.o
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .text          0x0000000000000000        0x0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .data          0x0000000000000000        0x0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .bss           0x0000000000000000        0x0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_macro   0x0000000000000000       0x6b D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_macro   0x0000000000000000       0x3b D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_macro   0x0000000000000000       0x8e D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_macro   0x0000000000000000       0x51 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_macro   0x0000000000000000       0x6a D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_macro   0x0000000000000000      0x1df D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_macro   0x0000000000000000       0x34 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_macro   0x0000000000000000       0x26 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_macro   0x0000000000000000      0xe43 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_macro   0x0000000000000000     0x8018 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .text          0x0000000000000000        0x0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .data          0x0000000000000000        0x0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .bss           0x0000000000000000        0x0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .text.NVIC_PriorityGroupConfig
+                0x0000000000000000       0x28 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .text.NVIC_SetVectorTable
+                0x0000000000000000       0x2c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .text.NVIC_SystemLPConfig
+                0x0000000000000000       0x44 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .text.SysTick_CLKSourceConfig
+                0x0000000000000000       0x38 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_macro   0x0000000000000000      0xa66 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_macro   0x0000000000000000       0x6b D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_macro   0x0000000000000000       0x3b D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_macro   0x0000000000000000       0x22 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_macro   0x0000000000000000       0x8e D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_macro   0x0000000000000000       0x51 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_macro   0x0000000000000000       0xef D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_macro   0x0000000000000000       0x6a D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_macro   0x0000000000000000      0x1df D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_macro   0x0000000000000000       0x34 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_macro   0x0000000000000000       0x26 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_macro   0x0000000000000000      0xe43 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_macro   0x0000000000000000     0x8018 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .text          0x0000000000000000        0x0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .data          0x0000000000000000        0x0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .bss           0x0000000000000000        0x0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .text.GPIO_DeInit
+                0x0000000000000000      0x164 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .text.GPIO_StructInit
+                0x0000000000000000       0x34 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .text.GPIO_PinLockConfig
+                0x0000000000000000       0x44 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .text.GPIO_ReadInputDataBit
+                0x0000000000000000       0x34 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .text.GPIO_ReadInputData
+                0x0000000000000000       0x1a D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .text.GPIO_ReadOutputDataBit
+                0x0000000000000000       0x34 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .text.GPIO_ReadOutputData
+                0x0000000000000000       0x1a D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .text.GPIO_SetBits
+                0x0000000000000000       0x1e D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .text.GPIO_ResetBits
+                0x0000000000000000       0x1e D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .text.GPIO_WriteBit
+                0x0000000000000000       0x30 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .text.GPIO_Write
+                0x0000000000000000       0x1e D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .text.GPIO_ToggleBits
+                0x0000000000000000       0x24 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x0000000000000000      0xa66 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x0000000000000000       0x6b D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x0000000000000000       0x3b D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x0000000000000000       0x22 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x0000000000000000       0x8e D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x0000000000000000       0x51 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x0000000000000000       0xef D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x0000000000000000       0x6a D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x0000000000000000      0x1df D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x0000000000000000       0x34 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x0000000000000000       0x26 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x0000000000000000      0xe43 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x0000000000000000     0x8018 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x0000000000000000      0x64a D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text          0x0000000000000000        0x0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .data          0x0000000000000000        0x0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .bss           0x0000000000000000        0x0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .data.APBAHBPrescTable
+                0x0000000000000000       0x10 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_DeInit
+                0x0000000000000000       0x64 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_HSEConfig
+                0x0000000000000000       0x28 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_WaitForHSEStartUp
+                0x0000000000000000       0x50 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_AdjustHSICalibrationValue
+                0x0000000000000000       0x3c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_HSICmd
+                0x0000000000000000       0x20 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_LSEConfig
+                0x0000000000000000       0x44 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_LSICmd
+                0x0000000000000000       0x20 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_PLLConfig
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_PLLCmd
+                0x0000000000000000       0x20 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_PLLI2SConfig
+                0x0000000000000000       0x2c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_PLLI2SCmd
+                0x0000000000000000       0x20 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_PLLSAIConfig
+                0x0000000000000000       0x34 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_PLLSAICmd
+                0x0000000000000000       0x20 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_ClockSecuritySystemCmd
+                0x0000000000000000       0x20 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_MCO1Config
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_MCO2Config
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_SYSCLKConfig
+                0x0000000000000000       0x38 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_GetSYSCLKSource
+                0x0000000000000000       0x20 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_HCLKConfig
+                0x0000000000000000       0x38 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_PCLK1Config
+                0x0000000000000000       0x38 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_PCLK2Config
+                0x0000000000000000       0x3c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_GetClocksFreq
+                0x0000000000000000      0x150 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_RTCCLKConfig
+                0x0000000000000000       0x5c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_RTCCLKCmd
+                0x0000000000000000       0x20 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_BackupResetCmd
+                0x0000000000000000       0x20 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_I2SCLKConfig
+                0x0000000000000000       0x20 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_SAIPLLI2SClkDivConfig
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_SAIPLLSAIClkDivConfig
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_LTDCCLKDivConfig
+                0x0000000000000000       0x3c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_TIMCLKPresConfig
+                0x0000000000000000       0x20 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_AHB2PeriphClockCmd
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_AHB1PeriphResetCmd
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_AHB2PeriphResetCmd
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_APB1PeriphResetCmd
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_APB2PeriphResetCmd
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_AHB1PeriphClockLPModeCmd
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_AHB2PeriphClockLPModeCmd
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_LSEModeConfig
+                0x0000000000000000       0x3c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_ITConfig
+                0x0000000000000000       0x4c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_GetFlagStatus
+                0x0000000000000000       0x74 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_ClearFlag
+                0x0000000000000000       0x20 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_GetITStatus
+                0x0000000000000000       0x38 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .text.RCC_ClearITPendingBit
+                0x0000000000000000       0x20 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_macro   0x0000000000000000      0xa66 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_macro   0x0000000000000000       0x6b D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_macro   0x0000000000000000       0x3b D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_macro   0x0000000000000000       0x22 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_macro   0x0000000000000000       0x8e D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_macro   0x0000000000000000       0x51 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_macro   0x0000000000000000       0xef D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_macro   0x0000000000000000       0x6a D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_macro   0x0000000000000000      0x1df D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_macro   0x0000000000000000       0x34 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_macro   0x0000000000000000       0x26 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_macro   0x0000000000000000      0xe43 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_macro   0x0000000000000000     0x8018 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .group         0x0000000000000000        0xc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text          0x0000000000000000        0x0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .data          0x0000000000000000        0x0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .bss           0x0000000000000000        0x0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.SPI_I2S_DeInit
+                0x0000000000000000       0xdc D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.I2S_Init
+                0x0000000000000000      0x1d4 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.SPI_StructInit
+                0x0000000000000000       0x4a D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.I2S_StructInit
+                0x0000000000000000       0x38 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.I2S_Cmd  0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.SPI_DataSizeConfig
+                0x0000000000000000       0x38 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.SPI_BiDirectionalLineConfig
+                0x0000000000000000       0x42 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.SPI_NSSInternalSoftwareConfig
+                0x0000000000000000       0x44 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.SPI_SSOutputCmd
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.SPI_TIModeCmd
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.I2S_FullDuplexConfig
+                0x0000000000000000       0x9c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.SPI_CalculateCRC
+                0x0000000000000000       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.SPI_TransmitCRC
+                0x0000000000000000       0x24 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.SPI_GetCRC
+                0x0000000000000000       0x32 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.SPI_GetCRCPolynomial
+                0x0000000000000000       0x1a D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.SPI_I2S_DMACmd
+                0x0000000000000000       0x48 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text.SPI_I2S_ClearFlag
+                0x0000000000000000       0x22 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_macro   0x0000000000000000      0xa66 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_macro   0x0000000000000000       0x6b D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_macro   0x0000000000000000       0x3b D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_macro   0x0000000000000000       0x22 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_macro   0x0000000000000000       0x8e D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_macro   0x0000000000000000       0x51 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_macro   0x0000000000000000       0xef D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_macro   0x0000000000000000       0x6a D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_macro   0x0000000000000000      0x1df D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_macro   0x0000000000000000       0x34 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_macro   0x0000000000000000       0x26 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_macro   0x0000000000000000      0xe43 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_macro   0x0000000000000000     0x8018 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_macro   0x0000000000000000      0x64a D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0x60 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x32 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x0000000000000000       0x10 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x20 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x32 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000018000 xrw
+FLASH            0x0000000008000000 0x0000000000080000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD Src/main.o
+LOAD Src/syscalls.o
+LOAD Src/sysmem.o
+LOAD Startup/startup_stm32f401retx.o
+LOAD D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a
+START GROUP
+LOAD D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a
+END GROUP
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000020018000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x194
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x194 Startup/startup_stm32f401retx.o
+                0x0000000008000000                g_pfnVectors
+                0x0000000008000194                . = ALIGN (0x4)
+
+.text           0x0000000008000194      0xd34
+                0x0000000008000194                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000008000194       0x40 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.text*)
+ .text.NVIC_SetPriority
+                0x00000000080001d4       0x54 Src/main.o
+ .text.SysTick_Config
+                0x0000000008000228       0x44 Src/main.o
+ .text.Delay    0x000000000800026c       0x30 Src/main.o
+                0x000000000800026c                Delay
+ .text.SPI1_SlaveConfig
+                0x000000000800029c       0xd8 Src/main.o
+                0x000000000800029c                SPI1_SlaveConfig
+ .text.SPI2_MasterConfig
+                0x0000000008000374       0xbc Src/main.o
+                0x0000000008000374                SPI2_MasterConfig
+ .text.GPIO_PinControl
+                0x0000000008000430       0x5c Src/main.o
+                0x0000000008000430                GPIO_PinControl
+ .text.Send_Data
+                0x000000000800048c       0x48 Src/main.o
+                0x000000000800048c                Send_Data
+ .text.Receiver_Data_Slave
+                0x00000000080004d4       0x20 Src/main.o
+                0x00000000080004d4                Receiver_Data_Slave
+ .text.Led_Init
+                0x00000000080004f4       0x3c Src/main.o
+                0x00000000080004f4                Led_Init
+ .text.Button_Init
+                0x0000000008000530       0x38 Src/main.o
+                0x0000000008000530                Button_Init
+ .text.GPIO_Read_Pin
+                0x0000000008000568       0x2e Src/main.o
+                0x0000000008000568                GPIO_Read_Pin
+ *fill*         0x0000000008000596        0x2 
+ .text.main     0x0000000008000598       0xb0 Src/main.o
+                0x0000000008000598                main
+ .text.SysTick_Handler
+                0x0000000008000648       0x1c Src/main.o
+                0x0000000008000648                SysTick_Handler
+ .text.SPI1_IRQHandler
+                0x0000000008000664       0x34 Src/main.o
+                0x0000000008000664                SPI1_IRQHandler
+ .text.Reset_Handler
+                0x0000000008000698       0x50 Startup/startup_stm32f401retx.o
+                0x0000000008000698                Reset_Handler
+ .text.Default_Handler
+                0x00000000080006e8        0x2 Startup/startup_stm32f401retx.o
+                0x00000000080006e8                RTC_Alarm_IRQHandler
+                0x00000000080006e8                EXTI2_IRQHandler
+                0x00000000080006e8                DebugMon_Handler
+                0x00000000080006e8                SPI4_IRQHandler
+                0x00000000080006e8                TIM1_CC_IRQHandler
+                0x00000000080006e8                HardFault_Handler
+                0x00000000080006e8                PVD_IRQHandler
+                0x00000000080006e8                SDIO_IRQHandler
+                0x00000000080006e8                TAMP_STAMP_IRQHandler
+                0x00000000080006e8                PendSV_Handler
+                0x00000000080006e8                NMI_Handler
+                0x00000000080006e8                EXTI3_IRQHandler
+                0x00000000080006e8                TIM1_UP_TIM10_IRQHandler
+                0x00000000080006e8                I2C3_ER_IRQHandler
+                0x00000000080006e8                EXTI0_IRQHandler
+                0x00000000080006e8                I2C2_EV_IRQHandler
+                0x00000000080006e8                FPU_IRQHandler
+                0x00000000080006e8                UsageFault_Handler
+                0x00000000080006e8                TIM1_BRK_TIM9_IRQHandler
+                0x00000000080006e8                I2C1_EV_IRQHandler
+                0x00000000080006e8                TIM3_IRQHandler
+                0x00000000080006e8                RCC_IRQHandler
+                0x00000000080006e8                Default_Handler
+                0x00000000080006e8                EXTI15_10_IRQHandler
+                0x00000000080006e8                ADC_IRQHandler
+                0x00000000080006e8                I2C3_EV_IRQHandler
+                0x00000000080006e8                EXTI9_5_IRQHandler
+                0x00000000080006e8                RTC_WKUP_IRQHandler
+                0x00000000080006e8                SPI2_IRQHandler
+                0x00000000080006e8                MemManage_Handler
+                0x00000000080006e8                SVC_Handler
+                0x00000000080006e8                EXTI4_IRQHandler
+                0x00000000080006e8                TIM2_IRQHandler
+                0x00000000080006e8                OTG_FS_WKUP_IRQHandler
+                0x00000000080006e8                TIM1_TRG_COM_TIM11_IRQHandler
+                0x00000000080006e8                EXTI1_IRQHandler
+                0x00000000080006e8                I2C2_ER_IRQHandler
+                0x00000000080006e8                FLASH_IRQHandler
+                0x00000000080006e8                BusFault_Handler
+                0x00000000080006e8                OTG_FS_IRQHandler
+                0x00000000080006e8                SPI3_IRQHandler
+                0x00000000080006e8                I2C1_ER_IRQHandler
+ *fill*         0x00000000080006ea        0x2 
+ .text.SystemInit
+                0x00000000080006ec       0x6c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+                0x00000000080006ec                SystemInit
+ .text.SystemCoreClockUpdate
+                0x0000000008000758       0xf8 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+                0x0000000008000758                SystemCoreClockUpdate
+ .text.SetSysClock
+                0x0000000008000850       0xa0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .text.NVIC_Init
+                0x00000000080008f0       0xc4 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+                0x00000000080008f0                NVIC_Init
+ .text.GPIO_Init
+                0x00000000080009b4      0x11c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+                0x00000000080009b4                GPIO_Init
+ .text.GPIO_PinAFConfig
+                0x0000000008000ad0       0x92 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+                0x0000000008000ad0                GPIO_PinAFConfig
+ *fill*         0x0000000008000b62        0x2 
+ .text.RCC_AHB1PeriphClockCmd
+                0x0000000008000b64       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+                0x0000000008000b64                RCC_AHB1PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x0000000008000ba4       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+                0x0000000008000ba4                RCC_APB1PeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x0000000008000be4       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+                0x0000000008000be4                RCC_APB2PeriphClockCmd
+ .text.SPI_Init
+                0x0000000008000c24       0x88 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+                0x0000000008000c24                SPI_Init
+ .text.SPI_Cmd  0x0000000008000cac       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+                0x0000000008000cac                SPI_Cmd
+ .text.SPI_I2S_ReceiveData
+                0x0000000008000cec       0x1a D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+                0x0000000008000cec                SPI_I2S_ReceiveData
+ .text.SPI_I2S_SendData
+                0x0000000008000d06       0x1e D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+                0x0000000008000d06                SPI_I2S_SendData
+ .text.SPI_I2S_ITConfig
+                0x0000000008000d24       0x62 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+                0x0000000008000d24                SPI_I2S_ITConfig
+ .text.SPI_I2S_GetFlagStatus
+                0x0000000008000d86       0x38 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+                0x0000000008000d86                SPI_I2S_GetFlagStatus
+ .text.SPI_I2S_GetITStatus
+                0x0000000008000dbe       0x76 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+                0x0000000008000dbe                SPI_I2S_GetITStatus
+ .text.SPI_I2S_ClearITPendingBit
+                0x0000000008000e34       0x34 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+                0x0000000008000e34                SPI_I2S_ClearITPendingBit
+ .text.__libc_init_array
+                0x0000000008000e68       0x48 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+                0x0000000008000e68                __libc_init_array
+ *(.glue_7)
+ .glue_7        0x0000000008000eb0        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008000eb0        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000008000eb0        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x0000000008000eb0        0x4 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000008000eb0                _init
+ .init          0x0000000008000eb4        0x8 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x0000000008000ebc        0x4 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000008000ebc                _fini
+ .fini          0x0000000008000ec0        0x8 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000008000ec8                . = ALIGN (0x4)
+                0x0000000008000ec8                _etext = .
+
+.vfp11_veneer   0x0000000008000ec8        0x0
+ .vfp11_veneer  0x0000000008000ec8        0x0 linker stubs
+
+.v4_bx          0x0000000008000ec8        0x0
+ .v4_bx         0x0000000008000ec8        0x0 linker stubs
+
+.iplt           0x0000000008000ec8        0x0
+ .iplt          0x0000000008000ec8        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rel.dyn        0x0000000008000ec8        0x0
+ .rel.iplt      0x0000000008000ec8        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x0000000008000ec8        0x0
+                0x0000000008000ec8                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+                0x0000000008000ec8                . = ALIGN (0x4)
+
+.ARM.extab      0x0000000008000ec8        0x0
+                0x0000000008000ec8                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000008000ec8                . = ALIGN (0x4)
+
+.ARM            0x0000000008000ec8        0x0
+                0x0000000008000ec8                . = ALIGN (0x4)
+                0x0000000008000ec8                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000008000ec8                __exidx_end = .
+                0x0000000008000ec8                . = ALIGN (0x4)
+
+.preinit_array  0x0000000008000ec8        0x0
+                0x0000000008000ec8                . = ALIGN (0x4)
+                0x0000000008000ec8                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000008000ec8                PROVIDE (__preinit_array_end = .)
+                0x0000000008000ec8                . = ALIGN (0x4)
+
+.init_array     0x0000000008000ec8        0x4
+                0x0000000008000ec8                . = ALIGN (0x4)
+                0x0000000008000ec8                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000008000ec8        0x4 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000008000ecc                PROVIDE (__init_array_end = .)
+                0x0000000008000ecc                . = ALIGN (0x4)
+
+.fini_array     0x0000000008000ecc        0x4
+                0x0000000008000ecc                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008000ecc        0x4 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000008000ed0                . = ALIGN (0x4)
+                0x0000000008000ed0                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000       0x14 load address 0x0000000008000ed0
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x0000000020000000        0x4 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+                0x0000000020000000                SystemCoreClock
+ .data.AHBPrescTable
+                0x0000000020000004       0x10 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+                0x0000000020000004                AHBPrescTable
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x0000000020000014                . = ALIGN (0x4)
+                0x0000000020000014                _edata = .
+
+.igot.plt       0x0000000020000014        0x0 load address 0x0000000008000ee4
+ .igot.plt      0x0000000020000014        0x0 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000020000014                . = ALIGN (0x4)
+
+.bss            0x0000000020000014       0x24 load address 0x0000000008000ee4
+                0x0000000020000014                _sbss = .
+                0x0000000020000014                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000014       0x1c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ .bss.Receive_Data
+                0x0000000020000030        0x2 Src/main.o
+ *fill*         0x0000000020000032        0x2 
+ .bss.msTicks   0x0000000020000034        0x4 Src/main.o
+                0x0000000020000034                msTicks
+ *(COMMON)
+                0x0000000020000038                . = ALIGN (0x4)
+                0x0000000020000038                _ebss = .
+                0x0000000020000038                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x0000000020000038      0x600 load address 0x0000000008000ee4
+                0x0000000020000038                . = ALIGN (0x8)
+                [!provide]                        PROVIDE (end = .)
+                0x0000000020000038                PROVIDE (_end = .)
+                0x0000000020000238                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000020000038      0x200 
+                0x0000000020000638                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020000238      0x400 
+                0x0000000020000638                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x34 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000052       0x34 Src/main.o
+ .ARM.attributes
+                0x0000000000000086       0x21 Startup/startup_stm32f401retx.o
+ .ARM.attributes
+                0x00000000000000a7       0x39 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .ARM.attributes
+                0x00000000000000e0       0x39 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .ARM.attributes
+                0x0000000000000119       0x39 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .ARM.attributes
+                0x0000000000000152       0x39 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .ARM.attributes
+                0x000000000000018b       0x39 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .ARM.attributes
+                0x00000000000001c4       0x34 c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000001f8       0x1e c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(Lab4.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard\libgcc.a
+
+.debug_info     0x0000000000000000     0x3715
+ .debug_info    0x0000000000000000      0xd17 Src/main.o
+ .debug_info    0x0000000000000d17       0x22 Startup/startup_stm32f401retx.o
+ .debug_info    0x0000000000000d39      0x5bb D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_info    0x00000000000012f4      0x54b D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_info    0x000000000000183f      0x62b D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_info    0x0000000000001e6a      0xd5e D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_info    0x0000000000002bc8      0xb4d D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+
+.debug_abbrev   0x0000000000000000      0xad1
+ .debug_abbrev  0x0000000000000000      0x2fe Src/main.o
+ .debug_abbrev  0x00000000000002fe       0x12 Startup/startup_stm32f401retx.o
+ .debug_abbrev  0x0000000000000310      0x138 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_abbrev  0x0000000000000448      0x177 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_abbrev  0x00000000000005bf      0x1bf D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_abbrev  0x000000000000077e      0x1d4 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_abbrev  0x0000000000000952      0x17f D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+
+.debug_aranges  0x0000000000000000      0x428
+ .debug_aranges
+                0x0000000000000000       0x90 Src/main.o
+ .debug_aranges
+                0x0000000000000090       0x28 Startup/startup_stm32f401retx.o
+ .debug_aranges
+                0x00000000000000b8       0x30 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_aranges
+                0x00000000000000e8       0x40 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_aranges
+                0x0000000000000128       0x88 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_aranges
+                0x00000000000001b0      0x198 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_aranges
+                0x0000000000000348       0xe0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+
+.debug_ranges   0x0000000000000000      0x3c0
+ .debug_ranges  0x0000000000000000       0x80 Src/main.o
+ .debug_ranges  0x0000000000000080       0x20 Startup/startup_stm32f401retx.o
+ .debug_ranges  0x00000000000000a0       0x20 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_ranges  0x00000000000000c0       0x30 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_ranges  0x00000000000000f0       0x78 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_ranges  0x0000000000000168      0x188 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_ranges  0x00000000000002f0       0xd0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+
+.debug_macro    0x0000000000000000     0xca4b
+ .debug_macro   0x0000000000000000      0x171 Src/main.o
+ .debug_macro   0x0000000000000171      0xaae Src/main.o
+ .debug_macro   0x0000000000000c1f       0x6b Src/main.o
+ .debug_macro   0x0000000000000c8a       0x3b Src/main.o
+ .debug_macro   0x0000000000000cc5       0x22 Src/main.o
+ .debug_macro   0x0000000000000ce7       0x8e Src/main.o
+ .debug_macro   0x0000000000000d75       0x51 Src/main.o
+ .debug_macro   0x0000000000000dc6      0x103 Src/main.o
+ .debug_macro   0x0000000000000ec9       0x6a Src/main.o
+ .debug_macro   0x0000000000000f33      0x1df Src/main.o
+ .debug_macro   0x0000000000001112       0x34 Src/main.o
+ .debug_macro   0x0000000000001146       0x26 Src/main.o
+ .debug_macro   0x000000000000116c      0xe43 Src/main.o
+ .debug_macro   0x0000000000001faf     0x8018 Src/main.o
+ .debug_macro   0x0000000000009fc7      0x64a Src/main.o
+ .debug_macro   0x000000000000a611      0x36c Src/main.o
+ .debug_macro   0x000000000000a97d      0x2f4 Src/main.o
+ .debug_macro   0x000000000000ac71       0x82 Src/main.o
+ .debug_macro   0x000000000000acf3       0xce D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_macro   0x000000000000adc1      0xa66 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_macro   0x000000000000b827       0x22 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_macro   0x000000000000b849       0xef D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_macro   0x000000000000b938       0xc0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_macro   0x000000000000b9f8       0x7c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_macro   0x000000000000ba74       0xc3 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x000000000000bb37      0x2ee D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_macro   0x000000000000be25      0x18d D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_macro   0x000000000000bfb2      0x644 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_macro   0x000000000000c5f6       0xef D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_macro   0x000000000000c6e5      0x366 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+
+.debug_line     0x0000000000000000     0x28a2
+ .debug_line    0x0000000000000000      0x7d7 Src/main.o
+ .debug_line    0x00000000000007d7       0x84 Startup/startup_stm32f401retx.o
+ .debug_line    0x000000000000085b      0x4a0 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_line    0x0000000000000cfb      0x515 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_line    0x0000000000001210      0x65e D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_line    0x000000000000186e      0x8d2 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_line    0x0000000000002140      0x762 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+
+.debug_str      0x0000000000000000    0x3e35e
+ .debug_str     0x0000000000000000    0x3ce07 Src/main.o
+                                      0x3cff7 (size before relaxing)
+ .debug_str     0x000000000003ce07       0x31 Startup/startup_stm32f401retx.o
+                                         0x4a (size before relaxing)
+ .debug_str     0x000000000003ce38      0x35a D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+                                      0x3583e (size before relaxing)
+ .debug_str     0x000000000003d192      0x139 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+                                      0x35d12 (size before relaxing)
+ .debug_str     0x000000000003d2cb      0x1a2 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+                                      0x3a690 (size before relaxing)
+ .debug_str     0x000000000003d46d      0xbc7 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+                                      0x39aa1 (size before relaxing)
+ .debug_str     0x000000000003e034      0x32a D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+                                      0x3af0c (size before relaxing)
+
+.comment        0x0000000000000000       0xce
+ .comment       0x0000000000000000       0x53 Src/main.o
+                                         0x54 (size before relaxing)
+ .comment       0x0000000000000053       0x7b D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+                                         0x7c (size before relaxing)
+ .comment       0x00000000000000ce       0x7c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .comment       0x00000000000000ce       0x7c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .comment       0x00000000000000ce       0x7c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .comment       0x00000000000000ce       0x7c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+
+.debug_frame    0x0000000000000000     0x1148
+ .debug_frame   0x0000000000000000      0x22c Src/main.o
+ .debug_frame   0x000000000000022c       0x74 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(system_stm32f4xx.o)
+ .debug_frame   0x00000000000002a0       0xd8 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(misc.o)
+ .debug_frame   0x0000000000000378      0x23c D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_gpio.o)
+ .debug_frame   0x00000000000005b4      0x774 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_rcc.o)
+ .debug_frame   0x0000000000000d28      0x3f4 D:\IOT\SDK_1.0.3_NUCLEO-F401RE\lib_stm\libLibraries.a(stm32f401re_spi.o)
+ .debug_frame   0x000000000000111c       0x2c c:/st/stm32cubeide_1.6.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)

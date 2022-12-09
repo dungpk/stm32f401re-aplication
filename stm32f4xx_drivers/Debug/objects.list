@@ -1,0 +1,6 @@
+"Src/led_button.o"
+"Src/syscalls.o"
+"Src/sysmem.o"
+"Startup/startup_stm32f401retx.o"
+"drivres/Src/stm32f401_gpio_driver.o"
+"drivres/Src/stm32f401_spi_driver.o"
